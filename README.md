@@ -29,3 +29,4 @@
 לו לפעמים לבחור מסלול ארוך יותר אבל משתלם יותר.
 
 קישור ל- https://roomies2.itch.io/tilemap-dijkstra-mode :itch
+
