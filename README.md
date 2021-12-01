@@ -1,17 +1,12 @@
 # dijkstra-weighted-graph
-
 השינוי שנעשה הוא סעיף א' להחליף את אלגוריתם bfs עם dijkstra.
 המשחק שעלה ל-itch הוא עבור 2-player עם הסקריפט: c-click-movement.
 
 השינויים והוספות:
 1) הוספה של מבנה נתונים PriorityQueue.
-
 2) שינוי בתיקייה של 0-bfs:
- 
 	2.1) שינוי מחלקה BFS בפונקצייה-FindPath.
-	
 	2.2) הוספה לממשק IGraph פונקצייה (int cost(T node.
-	
 	2.3) מימוש הפונקציה int cost במחלקת TilemapGraph.
 
 הסבר על האלגוריתם-dijkstra עם השילוב של המשחק:
